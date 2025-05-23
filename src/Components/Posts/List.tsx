@@ -16,7 +16,7 @@ const List = ({ posts }: ListProps) => {
   const navigation = useNavigation<NavigationProps>();
 
   const handlePress = (id: number) => {
-    navigation.navigate('Detalhes', {id}); // Local onde o ID do post e enviado
+    navigation.navigate('Detalhes', {id}); 
   }
 
   return (
