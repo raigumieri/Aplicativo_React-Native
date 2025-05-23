@@ -1,6 +1,6 @@
 # Integrantes do grupo:
-Guilherme Fazito Ziolli Sordili RM:550539
-Raí Gumieri dos Santos RM: 98287
+* Guilherme Fazito Ziolli Sordili RM:550539
+* Raí Gumieri dos Santos RM: 98287
 
 # Usando API do DummyJson
 A proposta deste projeto é mostrar posts contidos de história e ficção contidos no DummyJson.
