@@ -1,5 +1,5 @@
 # Integrantes do grupo:
-* Guilherme Fazito Ziolli Sordili RM:550539
+* Guilherme Fazito Ziolli Sordili RM: 550539
 * Raí Gumieri dos Santos RM: 98287
 
 # Usando API do DummyJson
